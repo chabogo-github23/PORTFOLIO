@@ -9,6 +9,10 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+    // Add this to ensure proper routing on Vercel
+  build: {
+    outDir: 'dist',
+  },
   plugins: [
     react(),
     mode === 'development' &&
