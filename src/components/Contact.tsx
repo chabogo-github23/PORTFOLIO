@@ -146,7 +146,7 @@ export function Contact() {
               </CardHeader>
               <CardContent>
                 <form
-                  action="https://formspree.io/f/xblkzbqv"
+                  actiion="https://formspree.io/f/mbdpbvlj"
                   method="POST"
                   className="space-y-6"
                 >
