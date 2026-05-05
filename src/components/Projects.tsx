@@ -20,7 +20,7 @@ const projects = [
     description: "Complete full-stack musician location and tracking system commonly known as 'wafungi-nation'.",
     image:wafungi,
     technologies: ["Django templatess", "postgresql", "django", "python", "bootstrap CSS", "Mpesa-daraja API", "Git/GitHub"],
-    demoUrl: "",
+    demoUrl: "https://wafungi-nation.vercel.app",
     skills: ["Problem Solving", "Communication", "realtime notification"]
   }
 ];
